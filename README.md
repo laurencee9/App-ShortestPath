@@ -16,5 +16,6 @@ iPhone 5s, 6, 6s, iOS 8+
 **Note**<br>
 This app was developed in less than a week so the code is not as clean as I want.
 
+*This project is licensed under the terms of the MIT license.*
 
 ![alt tag](./ScreenShot.png)
