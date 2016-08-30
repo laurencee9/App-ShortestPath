@@ -15,3 +15,6 @@ iPhone 5s, 6, 6s, iOS 8+
 
 **Note**<br>
 This app was developed in less than a week so the code is not as clean as I want.
+
+
+![alt tag](./ScreenShot.png)
