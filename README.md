@@ -1,6 +1,8 @@
 # App-ShortestPath
 This is an iOS App game where people have to find the shortest path linking all the components. We used to compare the best human path with some obtained using algorithms (tabou, firefly, genetic).
 
+Check the folder [Symposium_optimization](https://github.com/laurencee9/Symposium_optimization) for more details.
+
 **History**<br>
 2016 : Physique Numérique - Université Laval - Symposium Dynamica<br>
 
